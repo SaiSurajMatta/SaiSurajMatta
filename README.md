@@ -1,42 +1,45 @@
-# Hi, I'm Sai Suraj 👋 
+![github_banner](https://github.com/SaiSurajMatta/SaiSurajMatta/assets/92928975/f8b08018-0989-409e-b0ca-e2c8b762226c)
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=SaisurajMatta.SaisurajMatta&color=12df90)
+<h3 align="left">Hey, I'm Sai Suraj</a> 👋</h1>
 
-- 💻 I'm currently a <b><i>Information Technology</i></b> student at <b>St. Martin's Engineering College</b>
-- 👋 Follow me on @SaiSurajMatta
-- 👀 I’m interested in Machine Learning, Data Science and Web Devlopment
-- 🌱 I’m currently learning AIML, ReactJS, etc
-- 💞️ I’m looking to collaborate on Anything that is Exciting!
-- 📫 How to reach me: email - saisuraj.matta@gmail.com
+<h2 align="left">I'm a CS Master's Student at Purdue University, Aspiring to be a Software Engineer/Developer</h3>
 
+- 🌱 I’m Interested in Data Analytics
+- 👀 I’m currently learning Machine Learning, Data Science, and Web development
+- 💞️ I’m looking to collaborate on Anything Exciting!
 
 
+## ✏️ A little about me
 
-<h1 align="left"> My Skills:</h1>
+- 🔭 I’m currently working on [Video Translator AI](https://github.com/ChiragBellara/Video-Translation-Using-Deep-Learning)
 
-|     Skills    |   Tools   |
-|       ---     |    ---    |
-| `Languages`   | ![Python](https://img.shields.io/badge/-Python-1F65AC?style=flat-square&logo=Python&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-307BBD?style=flat-square&logo=mysql&logoColor=white) ![C++](https://img.shields.io/badge/-C++-034D9A?style=flat-square&logo=c%2B%2B)|
-| `Web-Dev`     | ![HTML5](https://img.shields.io/badge/-HTML5-CC2400?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-E24800?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-FE7601?style=flat-square&logo=javascript)|
-| `Tools`       | ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-5D1A60?style=flat-square&logo=visual%20studio%20code&logoColor=white) ![Git](https://img.shields.io/badge/Git-682181?style=flat-square&logo=git&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat-square&logo=adobeillustrator&logoColor=white) ![Github](https://img.shields.io/badge/github-%23121011??style=flat-square&logo=github&logoColor=white)|
+- 👨‍💻 All of my projects are available on GitHub
 
- 
- 
-
-<h1 align="left"> Find me around the web :globe_with_meridians:</h1>
-<p align="left">
-  <a href="https://in.linkedin.com/in/saisurajmatta"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:saisuraj.matta@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/SaiSurajMatta"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/soorajmatta/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-<p align="center">Thank you! See on my Socials!</p>
+- 📫 You can reach me at **saisurajmvv@gmail.com**
 
 
+## 💼 Technical Skills
+<h3 align="left">Data Analysis Tools:</h3>
+<a href="https://mysql.com/" target="_blank" rel=""> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/> </a>
+<a href="https://app.powerbi.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/power-bi.png" alt="PowerBI" width="40" height="40"/> </a>
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableu" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40"/> </a>
 
 
+<h3 align="left">Languages:</h3>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
-<!---
-SaiSurajMatta/SaiSurajMatta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<h3 align="left">Tools:</h3>
+<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> </a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github" width="40" height="40"/> </a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Github" width="40" height="40"/> </a>
+
+## 🤝 Connect with me:
+<a href="https://www.linkedin.com/in/saisurajmatta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="username" height="30" width="40" /></a>
