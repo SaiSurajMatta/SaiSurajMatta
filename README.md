@@ -1,45 +1,86 @@
-![github_banner](https://github.com/SaiSurajMatta/SaiSurajMatta/assets/92928975/f8b08018-0989-409e-b0ca-e2c8b762226c)
+<!-- Banner -->
+<!-- ![github_banner](https://github.com/SaiSurajMatta/SaiSurajMatta/assets/92928975/f8b08018-0989-409e-b0ca-e2c8b762226c)-->
 
-<h3 align="left">Hey, I'm Sai Suraj</a> 👋</h1>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaiSurajMatta&theme=vue" />
+</p>
 
-<h2 align="left">I'm a CS Master's Student at Purdue University, Aspiring to be a Software Engineer/Developer</h3>
+---
 
-- 🌱 I’m Interested in Data Analytics
-- 👀 I’m currently learning Machine Learning, Data Science, and Web development
-- 💞️ I’m looking to collaborate on Anything Exciting!
+## 👋 About Me
 
+🎓 Master’s in CS @ Purdue University  
+💡 Turning raw data into real decisions — with dashboards, insights & smart strategy  
+💼 Experienced across **Data Analytics**, **Business Intelligence**, and **Product-Oriented Development**  
+🧠 Passionate about merging **tech + business + user perspective**  
+🌐 Portfolio: [saisurajmatta.github.io/Portfolio](https://saisurajmatta.github.io/Portfolio)
 
-## ✏️ A little about me
+---
 
-- 🔭 I’m currently working on [Video Translator AI](https://github.com/ChiragBellara/Video-Translation-Using-Deep-Learning)
+## 🚀 Tech Stack
 
-- 👨‍💻 All of my projects are available on GitHub
+### 📊 Data Tools & Libraries
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
 
-- 📫 You can reach me at **saisurajmvv@gmail.com**
+### 🧠 Programming & Web
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 
-## 💼 Technical Skills
-<h3 align="left">Data Analysis Tools:</h3>
-<a href="https://mysql.com/" target="_blank" rel=""> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/> </a>
-<a href="https://app.powerbi.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/power-bi.png" alt="PowerBI" width="40" height="40"/> </a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableu" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40"/> </a>
+---
 
+## 🌟 Highlight Projects
 
-<h3 align="left">Languages:</h3>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+### 🛍️ Retail Marketing Campaign: Data Warehouse & Analytics
+Built a Medallion Architecture in SQL Server + Tableau for advanced campaign insights.  
+🧰 Tech: SQL, CTEs, Stored Procedures, Tableau, Excel  
+🔗 [View Project](https://github.com/SaiSurajMatta/Data-Warehousing-and-Advanced-Data-Analytics)
 
+### 📦 E-Commerce Sales Dashboard
+Power Pivot + DAX + Excel to analyze revenue, customer behavior & delivery delays.  
+🧰 Tech: Power Query, Power Pivot, DAX  
+🔗 [View Project](https://github.com/SaiSurajMatta/E-commerce-Sales-Advanced-Data-Analysis)
 
-<h3 align="left">Tools:</h3>
-<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> </a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github" width="40" height="40"/> </a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Github" width="40" height="40"/> </a>
+### 🏥 Healthcare Emergency Room Dashboard
+Power BI dashboard for real-time patient flow & department performance analytics.  
+🧰 Tech: Power BI, DAX, SQL  
+🔗 [View Project](https://github.com/SaiSurajMatta/Healthcare-Data-Analytics)
 
-## 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/saisurajmatta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="username" height="30" width="40" /></a>
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaiSurajMatta&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiSurajMatta&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSurajMatta&layout=compact&theme=radical" width="48%" />
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saisurajmatta/)
+[![Gmail](https://img.shields.io/badge/-saisurajmvv@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saisurajmvv@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=google-chrome&logoColor=white)](https://saisurajmatta.github.io/Portfolio)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/SaiSurajMatta)
+
+---
+
+<p align="center"><b>“Let data tell the story — I’ll bring the insight.”</b></p>
