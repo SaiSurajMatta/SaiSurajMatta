@@ -11,9 +11,9 @@
 
 🎓 Master’s in CS @ Purdue University  
 💡 Turning raw data into real decisions — with dashboards, insights & smart strategy  
-💼 Experienced across **Data Analytics**, **Business Intelligence**, and **Product-Oriented Development**  
+💼 Experienced across **Product Management, **Data Analytics**, and **Business Intelligence**  
 🧠 Passionate about merging **tech + business + user perspective**  
-🌐 Portfolio: [saisurajmatta.github.io/Portfolio](https://saisurajmatta.github.io/Portfolio)
+🌐 Portfolio: [surajmatta.me](https://surajmatta.me)
 
 ---
 
