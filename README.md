@@ -11,7 +11,7 @@
 
 🎓 Master’s in CS @ Purdue University  
 💡 Turning raw data into real decisions — with dashboards, insights & smart strategy  
-💼 Experienced across **Product Management, **Data Analytics**, and **Business Intelligence**  
+💼 Experienced across **Product Management**, **Data Analytics**, and **Business Intelligence**  
 🧠 Passionate about merging **tech + business + user perspective**  
 🌐 Portfolio: [surajmatta.me](https://surajmatta.me)
 
